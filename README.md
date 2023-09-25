@@ -9,7 +9,8 @@ Welcome to my CSS Practice Repository! This repository is a comprehensive resour
 3. [Getting Started](#getting-started)
 4. [Topics Covered](#topics-covered)
 5. [Contributing](#contributing)
-6. [Bonus](#bonus)
+6. [Bonus](#bonus1)
+7. [Bonus](#bonus2)
 
 ## Introduction
 
